@@ -1,7 +1,7 @@
 # 335-Server-and-Client-Side-Web-API
 
 ## Description
-This is a Web API developed for **Southern Hemisphere Institute of Technology**. The aim of this project is for users to be able to browse the official website of Southern Hemisphere Institute of Technology.
+This is a Web API developed for **Southern Hemisphere Institute of Technology**. The aim of this project is for users to be able to browse their official website.
 The project is developed from C#, MS .NET, Javascript, HTML5, CSS3, VS studio, and postman.
 
 ## Features
