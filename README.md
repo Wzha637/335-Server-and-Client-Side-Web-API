@@ -15,3 +15,4 @@
 3. Open the html file "wzha637.html".
 ## Screen Shots
 ![shit](https://user-images.githubusercontent.com/88303440/197472718-8e0b936e-eac7-4405-bcb2-2c0c1a2e8925.png)
+<img src="https://user-images.githubusercontent.com/88303440/197472718-8e0b936e-eac7-4405-bcb2-2c0c1a2e8925.png"> </img>
