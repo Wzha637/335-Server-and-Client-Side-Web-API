@@ -1,7 +1,8 @@
 # 335-Server-and-Client-Side-Web-API
 
 ## Description
-This is a Web API developed for **Southern Hemisphere Institute of Technology**
+This is a Web API developed for **Southern Hemisphere Institute of Technology**. The aim of this project is for users to be able to browse the official website of Southern Hemisphere Institute of Technology.
+The project is developed from C#, MS .NET, Javascript, HTML5, CSS3, VS studio, and postman.
 
 ## Technologies
 1. C#
@@ -10,6 +11,7 @@ This is a Web API developed for **Southern Hemisphere Institute of Technology**
 4. HTML5
 5. CSS3
 6. VS Studio
+7. Postman
 ## Run Client side Web API
 1. Extract and open Client side Web API.
 2. Find the file "A3.exe" in folder "335A3Server" and run it. This will run the local server.
