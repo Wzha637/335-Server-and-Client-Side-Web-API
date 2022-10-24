@@ -9,7 +9,7 @@
 4. HTML5
 5. CSS3
 6. VS Studio
-## Run
+## Run Client side Web API
 1. Extract and open Client side Web API.
 2. Find the file "A3.exe" in folder "335A3Server" and run it. This will run the local server.
 3. Open the html file "wzha637.html".
