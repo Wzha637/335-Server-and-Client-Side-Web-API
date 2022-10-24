@@ -1,7 +1,7 @@
 # 335-Server-and-Client-Side-Web-API
 
 ## Description
-This is a Web API developed for ##Southern Hemisphere Institute of Technology## 
+This is a Web API developed for **Southern Hemisphere Institute of Technology**
 
 ## Technologies
 1. C#
