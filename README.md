@@ -4,6 +4,12 @@
 This is a Web API developed for **Southern Hemisphere Institute of Technology**. The aim of this project is for users to be able to browse the official website of Southern Hemisphere Institute of Technology.
 The project is developed from C#, MS .NET, Javascript, HTML5, CSS3, VS studio, and postman.
 
+## Features
+- Login/ Register
+- Guest Book to leave notes
+- Staff page with their details shown
+- Purchase of products sold.
+
 ## Technologies
 1. C#
 2. MS .NET Core
