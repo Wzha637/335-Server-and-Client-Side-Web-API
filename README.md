@@ -24,5 +24,5 @@
 5. Run the project.
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/88303440/197475419-c2d24c06-be4a-4e06-b2d3-f62784310b09.png" width='700px' height='500px'> </img>
-<img src="https://user-images.githubusercontent.com/88303440/197475401-aff9e9da-ef53-482b-a543-a20d8150f2d3.png" width='1000px' height='500px'> </img>
+<img src="https://user-images.githubusercontent.com/88303440/197475419-c2d24c06-be4a-4e06-b2d3-f62784310b09.png" width='1000px' height='600px'> </img>
+<img src="https://user-images.githubusercontent.com/88303440/197475401-aff9e9da-ef53-482b-a543-a20d8150f2d3.png" width='1000px' height='600px'> </img>
