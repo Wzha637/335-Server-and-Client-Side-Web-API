@@ -14,4 +14,4 @@
 2. Find the file "A3.exe" in folder "335A3Server" and run it. This will run the local server.
 3. Open the html file "wzha637.html".
 ## Screen Shots
-<img src="https://user-images.githubusercontent.com/88303440/197472718-8e0b936e-eac7-4405-bcb2-2c0c1a2e8925.png" width='300px' height='300px'> </img>
+<img src="https://user-images.githubusercontent.com/88303440/197472718-8e0b936e-eac7-4405-bcb2-2c0c1a2e8925.png" width='500px' height='500px'> </img>
