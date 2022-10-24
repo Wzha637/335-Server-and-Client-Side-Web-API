@@ -4,10 +4,11 @@
 
 ## Technologies
 1. C#
-2. Javascript
-3. HTML5
-4. CSS3
-5. VS Studio
+2. MS .NET Core
+3. Javascript
+4. HTML5
+5. CSS3
+6. VS Studio
 ## Run
 
 ## Screen Shots
